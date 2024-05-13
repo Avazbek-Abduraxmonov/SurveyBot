@@ -1,3 +1,3 @@
-token = '6948114322:AAGEDu7cXRgPiYnw3Np51CMVD9tap_8uQR0'
-admin_id = 5667762268
-group_id = -1002066197740
+token = 'BOT TOKEN'
+admin_id = # admin id
+group_id = # Group id
